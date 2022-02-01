@@ -28,4 +28,4 @@ function marchingDoubler(length: number, terms: number) {
   return;
 }
 
-marchingDoubler(4, 2);
+marchingDoubler(5, 20);
